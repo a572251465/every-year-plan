@@ -1,6 +1,6 @@
 <h1 align="center">年度学习计划</h1>
 
-![在这里插入图片描述](https://baselined.s3.eu-west-1.amazonaws.com/static/backgroundremover/nobg-2.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/6459c95b94fb4ab7953ed15fc760e188.png#pic_center)
 
 <h3 align="center">全栈切图仔</h3>
 
